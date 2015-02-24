@@ -3,7 +3,6 @@
   <Globals>
     <StorageProviders>
       <Provider Type="Orleans.StorageProvider.Redis.RedisStorageProvider" Name="RedisStore" KeySpace="MyOrleansKeySpace" RedisIpAddress="192.168.0.33"  />
-      
     </StorageProviders>
     <SeedNode Address="localhost" Port="11111" />
   </Globals>
