@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Orleans.StorageProvider.Redis</id>
+    <version>1.0.0</version>
+    <authors>Mark deVilliers</authors>
+    <owners>Mark deVilliers</owners>
+    <licenseUrl>https://github.com/mdevilliers/Orleans.StorageProvider.Redis/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/mdevilliers/Orleans.StorageProvider.Redis</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Orleans storage provider using Redis as a backing store.</description>
+    <releaseNotes>Initial Release.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Orleans Redis</tags>
+  </metadata>
+</package>
