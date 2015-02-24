@@ -5,7 +5,7 @@
     <version>1.0.0</version>
     <authors>Mark deVilliers</authors>
     <owners>Mark deVilliers</owners>
-    <licenseUrl>https://github.com/mdevilliers/Orleans.StorageProvider.Redis/master/LICENSE.md</licenseUrl>
+    <licenseUrl>https://raw.githubusercontent.com/mdevilliers/Orleans.StorageProvider.Redis/master/LICENSE.md</licenseUrl>
     <projectUrl>https://github.com/mdevilliers/Orleans.StorageProvider.Redis</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Orleans storage provider using Redis as a backing store.</description>
