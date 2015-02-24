@@ -2,6 +2,22 @@
 
 An Orleans Storage Provider backed with Redis.
 
+Nuget
+-----
+
+To install from nuget
+
+```
+Install-Package Orleans.StorageProvider.Redis
+```
+
+To build the nuget package
+
+```
+cd Orleans.StorageProvider.Redis
+..\.nuget\NuGet.exe pack Orleans.StorageProvider.Redis.csproj
+```
+
 Usage
 -----
 
@@ -26,4 +42,5 @@ An example configuration is as follows -
         />
 </StorageProviders>
 ```
+
 
