@@ -38,7 +38,8 @@ An example configuration is as follows -
       	Name="RedisStore" 
       	KeySpace="{{optional - KeySpace to use in Redis - defaults to 'Orleans'}}" 
       	RedisIpAddress="{{required - IpAddress}} 
-      	RedisPortNumber={{optional - Port - defaults to 6379}}"
+      	RedisPortNumber="{{optional - Port - defaults to 6379}}"
+      	RedisPassword={{optional}}"
         />
 </StorageProviders>
 ```
