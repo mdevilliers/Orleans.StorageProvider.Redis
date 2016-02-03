@@ -2,6 +2,12 @@
 
 An Orleans Storage Provider backed with Redis.
 
+Notice
+------
+
+This project is no longer actively maintained. I urge you to use https://github.com/OrleansContrib/Orleans.StorageProvider.Redis instead.
+
+
 Nuget
 -----
 
